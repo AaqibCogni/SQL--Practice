@@ -4,4 +4,4 @@ These are scripts that answer questions from leetcode.Links to questions and my 
 
 |                Question                       | Answer |       
 | --------------------------------------------- | ------ |
-| [https://leetcode.com/problems/combine-two-tables/] Combine two Tables |row1 column 1 |
+| [Combine Two Tables] (#https://leetcode.com/problems/combine-two-tables/) |row1 column 1 |
